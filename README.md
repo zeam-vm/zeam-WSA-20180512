@@ -15,14 +15,14 @@ $ bower install
 
 ```
 $ cd zeam-WSA-20180512
-$ grunt serve
+$ yarn serve
 ```
 
 ## GitHub Pages への公開
 
 ```
 $ cd zeam-WSA-20180512
-$ grunt deploy
+$ yarn deploy
 ```
 
 [このページを開きます](https://zeam-vm.github.io/zeam-WSA-20180512/)
@@ -65,10 +65,3 @@ $ subl slides/slide-title.slim
 slide-title には英語のタイトルを入れる(そのままファイル名になる)。残念ながら日本語は通らない。
 
 CSS は css/source/theme.scss を編集する
-
-Slim を追加した場合は，スライドを表示したりデプロイしたりする前に `gulp` を実行して slides/\*.slim を変換しておく
-
-```
-$ cd zeam-WSA-20180512
-$ gulp
-```
