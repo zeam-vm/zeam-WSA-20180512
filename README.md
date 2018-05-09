@@ -7,8 +7,7 @@ $ gem install slim html2slim
 $ yarn global add bower yo grunt-cli generator-reveal gulp
 $ git clone git@github.com:zeam-vm/zeam-WSA-20180512.git
 $ cd zeam-WSA-20180512
-$ yarn install
-$ bower install
+$ yarn setup
 ```
 
 ## プレゼンテーション表示方法
