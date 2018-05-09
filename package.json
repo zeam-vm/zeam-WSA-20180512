@@ -13,7 +13,8 @@
     "serve": "yarn gulp && yarn grunt serve",
     "deploy": "yarn gulp && yarn grunt deploy",
     "test": "yarn gulp && yarn grunt test",
-    "setup": "yarn install && bower install"
+    "setup": "yarn install && bower install",
+    "up": "yarn upgrade && bower update"
   },
   "dependencies": {
     "bower": "^1.8.2",
