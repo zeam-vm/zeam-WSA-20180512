@@ -1,10 +1,10 @@
 {
   "generator-reveal": {
-    "presentationTitle": "zeam-fukuoka.ex-20180420",
+    "presentationTitle": "zeam-WSA-20180512",
     "packageVersion": "0.0.0",
     "useSass": true,
     "deployToGithubPages": true,
     "githubUsername": "zeam-vm",
-    "githubRepository": "zeam-fukuoka.ex-20180420"
+    "githubRepository": "zeam-WSA-20180512"
   }
 }
